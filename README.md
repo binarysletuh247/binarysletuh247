@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Bug Hunting & Penetration Testing Projects.
 - 📫 How to reach me binarysleuth247@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I loves to talk a lot but I am goddamn introvert person with some phisical issue.
+- ⚡ Fun fact: I loves to talk a lot but I am goddamn introvert person with some physical issue.
 
 [Follow Me on Twitter](https://x.com/binarysleuth247) [My Blog](https://medium.com/@binarysleuth247) [HackerOne Profile](https://hackerone.com/binarysleuth247)
 <!---
